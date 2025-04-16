@@ -1,0 +1,7 @@
+name: maryland-tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - kwant=1.4.1
